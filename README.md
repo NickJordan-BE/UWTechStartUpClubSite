@@ -1,3 +1,5 @@
+This project was the website for a club that I helped co-found at The University of Washington Tacoma. This was my first website that I published in React and I am hosting using Netlify at https://uwtechstartupclub.netlify.app. I developed this project solo and plan to add more features to make it a full stack application. If you'd like to look at the actual source code, you can visit UWTechStartUpClub on GitHub and look at the Club Website repository.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
